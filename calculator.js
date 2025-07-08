@@ -165,4 +165,4 @@ function key_detect_calc(id,evt)
                 f_calc(id,'ce');
         }
         return true;
-}// JavaScript Document
+}// JavaScript Documente
